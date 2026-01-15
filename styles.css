@@ -9,6 +9,9 @@ main section{
     flex:1;
     border: 1px solid purple;
 }
+main section:nth-child(odd){
+    background-color: aquamarine;
+}
 main section h2{
     background-color: green;
     color: beige;
