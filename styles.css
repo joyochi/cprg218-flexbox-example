@@ -5,6 +5,8 @@ header{
     background-color: #dccfba;
     display: flex;
     align-items: center;
+    gap: 3rem;
+    margin-bottom: 1rem;
 }
 main{
     display:flex;
