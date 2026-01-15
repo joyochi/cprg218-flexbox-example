@@ -18,3 +18,10 @@ main section h2{
 main section ul{
     padding-left:  0;
 }
+main section ul li{
+    list-style-type: none;
+    margin-bottom: 1rem;
+}
+main section  ul li span{
+    font-weight: bold;
+}
