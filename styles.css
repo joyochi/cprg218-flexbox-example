@@ -8,3 +8,13 @@ main section{
     flex:1;
     border: 1px solid purple;
 }
+main section h2{
+    background-color: green;
+    color: beige;
+    text-align:center;
+    margin-top: 0;
+    padding: 0.5rem;
+}
+main section ul{
+    padding-left:  0;
+}
